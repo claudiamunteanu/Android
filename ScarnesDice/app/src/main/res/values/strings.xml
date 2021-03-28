@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scarne\'sDice</string>
+    <string name="button_roll">ROLL</string>
+    <string name="button_hold">HOLD</string>
+    <string name="button_reset">RESET</string>
+    <string name="textview_score">Your score: 0 Computer score: 0</string>
+</resources>
